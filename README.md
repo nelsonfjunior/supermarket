@@ -29,6 +29,6 @@ Navegue até o diretório do projeto:
 Execute o script com o seguinte comando:
 
 ```bash
-    node supermarket.js
+    node supermercado.js
 ```
 
